@@ -1,8 +1,7 @@
-
-# deeplearning.ai  By Andrew Ng, sequence models, runnable projects in local computer
+#deeplearning.ai  By Andrew Ng, sequence models, runnable projects in local computer
 I have upload my programming projects to there. If there are some wrong with my work, be free to contact me. I will be grateful about that.
 
-you need to download the X.zip, X_dev.7z,glove.6B.50d.zip yourself.
+
 
 motivated by:
 https://github.com/stormstone/deeplearning.ai
